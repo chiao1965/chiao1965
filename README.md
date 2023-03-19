@@ -1,7 +1,7 @@
-- Hi, I'm Chiao 👋
-- I am currently a first-year graduate student in the Institute of Information Management at National Yang-Ming Chiao Tung University.
-- I have participated in research related to deep learning in college 🧙
-- Now is interesting in resource allocation and attack-defense methods in cloud/fog environments!
+Hi, I'm Chiao 👋 <br>
+I am currently a first-year graduate student in the Institute of Information Management at National Yang-Ming Chiao Tung University. <br>
+I have participated in research related to deep learning in college 🧙 <br>
+Now is interesting in resource allocation and attack-defense methods in cloud/fog environments! <br>
 
 - 🧡 Photography and playing badminton are my hobbies!
 - ✨ Here is my personal website "https://chiao1965.github.io/"
